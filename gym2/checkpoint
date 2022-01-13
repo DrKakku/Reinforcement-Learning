@@ -1,0 +1,2 @@
+model_checkpoint_path: "SpaceInvaders.hf5"
+all_model_checkpoint_paths: "SpaceInvaders.hf5"
